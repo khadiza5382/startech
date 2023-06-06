@@ -1,0 +1,28 @@
+.body{
+    width:20%;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(250, 245, 239);
+    border-radius: 15px;
+}
+.details{
+    color:#808080; 
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+#money{
+    color:red
+}
+.buy{
+    text-align:center;
+    height:30px
+    padding:5px
+    border: radius 5px;
+    background-color:A3DEEE;
+}
+.add{
+    text-align: center;
+    color:black
+}
